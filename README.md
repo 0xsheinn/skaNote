@@ -1,1 +1,2 @@
-# Note for what i learnt
+## Note for what i learned
+ - <img src=skaNote.png>
